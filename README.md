@@ -6,21 +6,29 @@ In today’s fast-paced world, access to quick and reliable medical advice is es
 Whether it's reminding you to stay hydrated, take breaks, or provide general health guidance, Monty acts as a virtual health companion.
 Project Description
 Monty is a real-time AI medical chatbot built using Streamlit for a simple and user-friendly interface. The chatbot utilizes Google Gemini AI to process medical queries and respond with general guidance. Additionally, it includes a time-based health recommendation system that provides users with wellness tips every 30 minutes, encouraging healthy habits throughout the day.
+
+
 Key Highlights
  AI-powered medical chatbot 
  Automated health reminders based on the current time 
  Simple & interactive interface with Streamlit
+
+ 
 Features
 •	AI-Powered Health Advice – Answers user queries related to symptoms, health concerns, and general medical guidance.
 •	Time-Based Health Reminders – Suggests healthy activities every 30 minutes (e.g., drinking water, taking breaks, eating snacks).
 •	User-Friendly UI – Built with Streamlit for easy access and interaction.
 •	Safe & Secure – Does not diagnose or prescribe medicine but provides general guidance.
 •	Runs Locally – No need for an external server or database.
+
+
 Technology Stack
 •	Programming Language – Python 
 •	Frontend Framework – Streamlit 
 •	AI Model – Google Gemini AI (gemini-1.5-pro-latest) 
 •	Time Management – datetime & pytz 
+
+
 Installation & Setup
 Follow these steps to set up and run MONTY THE MEDICAL CHATBOT:
 Step 1: Install Dependencies
@@ -31,6 +39,8 @@ Replace "YOUR_GEMINI_API_KEY" in the code with your Google Gemini API Key.
 Step 3: Run the Application
 Save the script as monty_chatbot.py and execute:
 streamlit run monty_chatbot.py
+
+
 How It Works
 1.	User enters a medical question in the chat input field.
 2.	The Google Gemini AI model processes the query and generates a response.
@@ -51,6 +61,8 @@ Future Enhancements
 •	Multi-Language Support – Responses in different languages.
 •	Advanced Symptom Analysis – More detailed AI-driven health insights.
 •	Mobile App Integration – Deploy as a mobile app.
+
+
 
 Limitations & Disclaimers
  Medical Disclaimer:

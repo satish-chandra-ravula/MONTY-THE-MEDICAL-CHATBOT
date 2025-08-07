@@ -75,5 +75,5 @@ Limitations & Disclaimers
 
 Conclusion
 MONTY THE MEDICAL CHATBOT is a simple yet powerful tool for promoting health awareness and providing quick, AI-driven medical advice. With automated health reminders and AI-powered insights, Monty helps users stay informed, hydrated, and healthy throughout the day.
- Try it now and make health a priority! 
+ Try it now and make health a priority!
 
